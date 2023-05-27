@@ -36,7 +36,7 @@ var CellsArr = []
 var Cells
 var Allcust
 var Main1txt = ""
-var Main2txt = ""
+var Main2txt = "" /// put something here... 
 var Main3txt = ""
 var Search
 var SC
