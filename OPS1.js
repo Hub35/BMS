@@ -35,7 +35,7 @@ var Cstr =""
 var CellsArr = []
 var Cells
 var Allcust
-var Main1txt = ""
+var Main1txt = ""// put someting else here... 
 var Main2txt = ""
 var Main3txt = ""
 var Search
@@ -44,6 +44,8 @@ var SS = 0
 var TLR
 const TL = 400
 var Searchtxt = ""
+
+
 
 
 
